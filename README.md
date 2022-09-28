@@ -61,8 +61,8 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ## 🔗Connect
 <p>
     <a href="https://www.linkedin.com/in/muchammadsholikhudinbhasri" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-     <a href="https://www.instagram.com/sholi_kudin/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
-    <a href="@shabir04" target="blank"><img src="https://img.shields.io/badge/-telegram-181717?style=for-the-badge&logo=telegram" /></a>
+     <a href="https://www.instagram.com/sholi_khudin/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
+    <a href="https://t.me/shabir04" target="blank"><img src="https://img.shields.io/badge/-telegram-181717?style=for-the-badge&logo=telegram" /></a>
 </p>
 
 
