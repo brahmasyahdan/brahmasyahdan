@@ -26,7 +26,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 
 ## 📈Stats
 <p align="left">
-<a href="https://github.com/wisnuwm">
+<a href="https://github.com/brahmasyahdan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brahmasyahdan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brahmasyahdan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
