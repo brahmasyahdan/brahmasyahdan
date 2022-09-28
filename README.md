@@ -58,9 +58,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## ▶️Bincang QA
-<details>
- <summary><strong>Bincang QA Content</strong></summary>
+
     
 ### SQA Journey Path
    * [PART 1 Pengenalan SQA](https://youtu.be/IrWbKeLGi2A)</br>
@@ -91,14 +89,13 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 
 ## 🔗Connect
 <p>
-    <a href="https://www.linkedin.com/in/wisnuwm" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-     <a href="https://www.instagram.com/wisnumnw/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
-    <a href="https://www.youtube.com/channel/UCLsr3AZJbxy9hB4-4y9H0zA" target="blank"><img src="https://img.shields.io/badge/-youtube-181717?style=for-the-badge&logo=youtube" /></a>
-<a href="https://bincangqa.tech/home/" target="blank"><img src="https://img.shields.io/badge/Website-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/muchammadsholikhudinbhasri" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+     <a href="https://www.instagram.com/sholi_kudin/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
+    <a href="@shabir04" target="blank"><img src="https://img.shields.io/badge/-telegram-181717?style=for-the-badge&logo=telegram" /></a>
 </p>
 
 
 ### 📝Contact me!
 <p>
-    <a href="mailto: wisnu265@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="mailto: sholikhudinxtsm211@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
