@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Brahmasyahdan!
-Currently working as QA Engineer, Having knowledge to create web automation using Cucumber Selenium Java, Robot Framework and Cypress. Create mobile(Android and iOS) automation using Cucumber Appium Java and Robot Framework. API Testing using Postman, Karate and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Jira and Azure DevOps..
 
 # Table of contents
 <!--ts-->
