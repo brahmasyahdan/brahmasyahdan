@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--ts-->
    * [Stats](#stats)
    * [Tools](#tools)
+   * [My Project](#my-project)
    * [Connect](#connect)
    * [Contact me](#contact-me)
 <!--te-->
  
-
 ## 📈Stats
 <p align="left">
 <a href="https://github.com/brahmasyahdan">
@@ -47,6 +47,11 @@ Here are some ideas to get you started:
  
 </details>
 
+### 🧑🏻‍💻My Project!
+You can view the project on this page
+<p>
+    <a href="https://github.com/brahmasyahdan?tab=repositories" target="blank"><img src="https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
 ## 🔗Connect
 <p>
@@ -54,7 +59,6 @@ Here are some ideas to get you started:
      <a href="https://www.instagram.com/sholi_khudin/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
     <a href="https://t.me/shabir04" target="blank"><img src="https://img.shields.io/badge/-telegram-181717?style=for-the-badge&logo=telegram" /></a>
 </p>
-
 
 ### 📝Contact me!
 <p>
