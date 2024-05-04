@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Brahmasyahdan!
-
+- 🔭 I worked in an IT company  as IT Support. With a background in Java, HTML, CSS, Python, MySQL and JavaScript programming languages. I work with a team to be responsible for maintaining server stability, performing server repairs and maintaining server data security. In addition, I also passed the Immersive Quality Assurance Engineer Bootcamp from Alterra. With this I was able to run some tests, Automated Web testing using Serenity BDD, API Testing using Rest Assured, Manual Testing using Postman and Performance Testing using Jmeter.
 # Table of contents
 <!--ts-->
    * [Stats](#stats)
